@@ -8,8 +8,8 @@ To analyze Uber trip data and extract valuable insights related to ride frequenc
 
 ## 📁 Dataset
 
-- **File Name**: `Uber Project.ipynb`
-- **Source**: Sample Uber dataset (e.g., NYC rideshare data)
+- **File Name**: <a href="https://github.com/harsha21h/Uber-Data-Analysis/blob/main/Uber%20Project.ipynb">Uber Project.ipynb</a>
+- **Source**: <a href="https://github.com/harsha21h/Uber-Data-Analysis/blob/main/UberDataset.csv">Uber_Dataset</a>
 - **Key Features**:
   - Date/Time of ride
   - Pickup location
@@ -82,5 +82,6 @@ To analyze Uber trip data and extract valuable insights related to ride frequenc
 
 ## 📸 Sample Visuals
 
+<img width="826" alt="screenshot" src="https://github.com/user-attachments/assets/b2e80b4d-2c63-4177-94e2-49f8eb487602" />
 
 
